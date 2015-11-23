@@ -1,0 +1,23 @@
+{
+  "name": "pf001",
+  "version": "1.0.0",
+  "description": "Portfolio of things!",
+  "main": "index.js",
+  "dependencies": {
+    "jshint": "^2.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SarSar440/Pf001.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SarSar440/Pf001/issues"
+  },
+  "homepage": "https://github.com/SarSar440/Pf001#readme"
+}
